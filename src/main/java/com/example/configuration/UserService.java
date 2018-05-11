@@ -1,6 +1,6 @@
-package com.teamtreehouse.todotoday.service;
+package com.example.configuration;
 
-import com.teamtreehouse.todotoday.model.User;
+import com.example.model.User;
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 public interface UserService extends UserDetailsService {

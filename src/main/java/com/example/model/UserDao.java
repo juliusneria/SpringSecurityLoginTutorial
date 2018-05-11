@@ -1,6 +1,5 @@
-package com.teamtreehouse.todotoday.dao;
+package com.example.model;
 
-import com.teamtreehouse.todotoday.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
